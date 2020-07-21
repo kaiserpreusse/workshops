@@ -1,0 +1,6 @@
+ipython
+jupyter
+neo4j
+py2neo
+graphio
+pandas
